@@ -11,7 +11,7 @@ Week 2
 IN
 ik heb een API gemaakt en deze proberen te conecten met een react front-end
 
-Week 2 
+Week 3
 
 IN
 ik heb een API gemaakt en deze geconecten met een react front-end
